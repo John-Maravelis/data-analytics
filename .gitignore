@@ -1,0 +1,8 @@
+*.pdf
+*.doc
+*.docx
+*.txt
+.vscode
+__pycache__
+.ipynb_checkpoints
+test.py
